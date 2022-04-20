@@ -1,2 +1,3 @@
 # Weather-API
-Waether AP)
+Waether API
+
